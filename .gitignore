@@ -1,0 +1,29 @@
+*.class
+*.log
+tmp
+
+# Intellij
+.idea/
+*.iml
+*.iws
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+
+# Eclipse
+.project
+.settings
+.cache-tests
+.cache-main
+# JDT-specific (Eclipse Java Development Tools)
+.classpath
+
+# Spark-Shell files:
+derby.log
+metastore_db
+
+# Python
+*.pyc
